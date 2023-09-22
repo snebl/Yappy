@@ -1,0 +1,9 @@
+node_modules/
+lines/
+
+config.json
+
+*.png
+*.7z
+*.exe
+*.bat
